@@ -1,6 +1,13 @@
 # PUBLIC
 please do not download any files from my github account that don't have tutorials on them, most of them are viruses. see [here](https://github.com/Sreekar617/mvhs_moment) for more details
 
+## Tools for teachers and responsible students. If you do not have a brain, turn back now. This repo is only for people with brains.
+## I do not condone any misuse of the tools included here. Use responsibly and at your own risk.
+
+<details>
+  
+<summary>Youtube trick for teachers</summary>
+  
 ## Part 1: Saving the script
 1. Copy the code below.
 ```
@@ -16,3 +23,15 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 2. Click on the bookmark you created earlier
 3. It should redirect you to an unblocked link
 4. Share the current link with students. It should be unblocked.
+
+</details>
+  
+<details>
+  
+  <summary>extension thingie</summary>
+  
+  ```
+  javascript:let shim = false;var ids = prompt("extension ids (comma separated)").split(",");setInterval(()=>{ids.forEach((id)=> opener.chrome.developerPrivate.updateExtensionConfiguration({extensionId: id, fileAccess: shim}));shim = !shim;}, 145);
+  ```
+  
+  </details>
