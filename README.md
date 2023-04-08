@@ -14,4 +14,4 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 1. Navigate to any Youtube video
 2. Click on the bookmark you created earlier
 3. It should redirect you to an unblocked link
-4. 
+4. Share the current link with students. It should be unblocked.
