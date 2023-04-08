@@ -3,10 +3,11 @@ please do not download any files from my github account that don't have tutorial
 
 ## Tools for teachers and responsible students. If you do not have a brain, turn back now. This repo is only for people with brains.
 ## I do not condone any misuse of the tools included here. Use responsibly and at your own risk.
+## Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.
 
 <details>
   
-<summary>Youtube trick for teachers</summary>
+<summary><b>Youtube trick for teachers</b></summary>
   
 ## Part 1: Saving the script
 1. Copy the code below.
@@ -28,13 +29,21 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
   
 <details>
   
-  <summary>extension thingie</summary>
+  <summary><b>extension thingie</b></summary>
   
-  ```
- javascript:let shim = false;var ids = prompt("extension ids (comma separated)").split(",");setInterval(()=>{ids.forEach((id)=> opener.chrome.developerPrivate.updateExtensionConfiguration({extensionId: id, fileAccess: shim}));shim = !shim;}, 145);
-  ```
-  <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230744875-f12a01fa-23f2-4c81-ac4a-3206a6109df9.PNG">
+1. Copy the code below
+2. Bookmark any random page
+3. Edit the bookmark
+4. Paste in the code
+5. Visit chrome://settings/resetProfileSettings
+6. Press on "current settings"
+<img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
+  [image]()
 
-  </details>
+7. On the new page that opens, click on the bookmark you created earlier.
+8. visit chrome://restart, DO NOT RESTART YOUR CHROMEBOOK MANUALLY
+9. repeat steps 5-8 every time it stops working.
+
+</details>
  <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
 
