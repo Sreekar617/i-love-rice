@@ -46,4 +46,5 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 
 </details>
  <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
+<img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745894-49e77af2-b4e5-4441-b7d3-075c7674ff58.png">
 
