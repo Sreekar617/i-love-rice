@@ -10,6 +10,7 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 3. Name it whatever you want.
 4. Delete everything currently in the box labeled "URL"
 5. Paste in the code you copied earlier
+6. Press "Done" to save the script.
 ## Part 2: Executing the script
 1. Navigate to any Youtube video
 2. Click on the bookmark you created earlier
