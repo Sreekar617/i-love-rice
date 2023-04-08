@@ -36,3 +36,5 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
   <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230744875-f12a01fa-23f2-4c81-ac4a-3206a6109df9.PNG">
 
   </details>
+ <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
+
