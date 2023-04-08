@@ -37,14 +37,11 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 4. Paste in the code
 5. Visit chrome://settings/resetProfileSettings
 6. Press on "current settings"
-<img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
-  [image]()
-
+<img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745894-49e77af2-b4e5-4441-b7d3-075c7674ff58.png">
+  
 7. On the new page that opens, click on the bookmark you created earlier.
 8. visit chrome://restart, DO NOT RESTART YOUR CHROMEBOOK MANUALLY
 9. repeat steps 5-8 every time it stops working.
 
 </details>
- <img width="959" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745835-820ca404-ddf4-4928-a727-4ffed5dca25b.PNG">
-<img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/230745894-49e77af2-b4e5-4441-b7d3-075c7674ff58.png">
 
