@@ -42,6 +42,7 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 7. On the new page that opens, click on the bookmark you created earlier.
 8. visit chrome://restart, DO NOT RESTART YOUR CHROMEBOOK MANUALLY
 9. repeat steps 5-8 every time it stops working.
+10. if google sign-ins break, restart your device.
 
 </details>
 
