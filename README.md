@@ -32,6 +32,9 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
   <summary><b>extension thingie</b></summary>
   
 1. Copy the code below
+  ```js
+  javascript:opener.chrome.send("TurnOffSync");
+  ```
 2. Bookmark any random page
 3. Edit the bookmark
 4. Paste in the code
