@@ -50,4 +50,3 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 </details>
 
 i love rice
-me too
