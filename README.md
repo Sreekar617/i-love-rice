@@ -12,7 +12,7 @@ please do not download any files from my github account that don't have tutorial
 1. Bookmark any page
 2. Copy the code below
 ```js
-javascript:opener.eval(`fetch("https://rounded-boiling-flax.glitch.me/uboss.js").then(data=>{data.text().then(e=>{eval(e)})})`) && close();
+javascript:%28async function%28%29%7Beval%28await%28await fetch%28"https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSpaceSaver%2FIngot-for-iBoss%40latest%2Fingot.js"%29%29.text%28%29%29%7D%29%28%29%3B
 ```
 3. Right click on the bookmark, click on "edit"
 4. Under the field labeled "URL", paste in the code.
