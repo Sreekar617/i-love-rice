@@ -16,10 +16,8 @@ javascript:opener.eval(`fetch("https://rounded-boiling-flax.glitch.me/uboss.js")
 ```
 3. Right click on the bookmark, click on "edit"
 4. Under the field labeled "URL", paste in the code.
-5. Go to [this page.](https://tinyurl.com/bettergoofboss)
-6. Click on the click me thingie
-<img width="109" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/231223481-31e5be9f-80af-4721-b661-214721561481.png">
-
+5. Go to [this page.](https://tinyurl.com/byeswamp)
+6. Click on "The Blue Hat Crew Is the Best!"
 7. On the blank page that appears, click on the bookmark you created earlier.
 8. I recommend clicking "Soft Kill", which resets every time you restart your chromebook. "Hard Kill" will not reset when you restart, but it breaks some other things.
 
