@@ -12,10 +12,7 @@ please do not download any files from my github account that don't have tutorial
 1. Bookmark any page
 2. Copy the code below
 ```js
-javascript:opener.eval(`
-(async function () {
-    eval((await (await fetch("https://uboss.glitch.me/cod.js")).text()));
-})();`) && close();
+javascript:opener.eval(`fetch("https://rounded-boiling-flax.glitch.me/uboss.js").then(data=>{data.text().then(e=>{eval(e)})})`) && close();
 ```
 3. Right click on the bookmark, click on "edit"
 4. Under the field labeled "URL", paste in the code.
