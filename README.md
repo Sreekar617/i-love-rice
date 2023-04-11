@@ -12,7 +12,7 @@ please do not download any files from my github account that don't have tutorial
 1. Bookmark any page
 2. Copy the code below
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/Aka-unblock/swamp-2.0@main/swamp.js").then(e=>{e.text().then(f=>{eval(f)})})
+javascript:opener.eval(`fetch("https://rounded-boiling-flax.glitch.me/uboss.js").then(data=>{data.text().then(e=>{eval(e)})})`) && close();
 ```
 3. Right click on the bookmark, click on "edit"
 4. Under the field labeled "URL", paste in the code.
