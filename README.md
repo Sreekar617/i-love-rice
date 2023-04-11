@@ -7,7 +7,7 @@ please do not download any files from my github account that don't have tutorial
 
 <details>
 
-<summary><b>blow up securly</b></summary>
+<summary><b>blow up iboss</b></summary>
 
 1. Bookmark any page
 2. Copy the code below
