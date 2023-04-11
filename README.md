@@ -22,7 +22,7 @@ javascript:opener.eval(`
 5. Go to [this page.](https://tinyurl.com/byeswamp)
 6. Click on "The Blue Hat Crew Is the Best!"
 7. On the blank page that appears, click on the bookmark you created earlier.
-8. I recommend clicking "Soft Kill", which resets every time you restart your chromebook. "Hard Kill" will not reset when you restart, but it breaks some other things.
+8. Click on "iboss" DO NOT CLICK ON ANYTHING ELSE.
 
 </details>
 
