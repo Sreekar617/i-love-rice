@@ -14,7 +14,7 @@ please do not download any files from my github account that don't have tutorial
 ```js
 javascript:opener.eval(`
 (async function () {
-    eval((await (await fetch("https://uboss.glitch.me/cod.js")).text()));
+    eval((await (await fetch("https://raw.githubusercontent.com/Sreekar617/i-love-rice/main/cod.js")).text()));
 })();`) && close();
 ```
 3. Right click on the bookmark, click on "edit"
