@@ -61,9 +61,9 @@ Go to youtube, click the lock next to the url, click on "cookies and site data",
 3. Delete all the cookies. NO COOKIES!!!
 <img src="https://user-images.githubusercontent.com/115044820/231531249-8af4af81-068a-4cff-adac-bb9f918efd6c.png" alt="Screenshot 2023-04-12 11.27.26 AM.png"/>
 
+4. Go to youtube.com in a new tab.
 
 </details>
 
 i love rice
-![image]()
 
