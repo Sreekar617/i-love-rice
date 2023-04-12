@@ -50,26 +50,20 @@ Go to youtube, click the lock next to the url, click on "cookies and site data",
 
 <details>
   
-<summary><b>Youtube trick for teachers</b></summary>
-  
-## Part 1: Saving the script
-1. Copy the code below.
-```
-javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D window.location.href%3Bvar YouTube %3D "youtube"%3Bvar YouTube2 %3D "https%3A%2F%2Fyoutu.be%2F"%3Bvar YouTube3 %3D "http%3A%2F%2Fyoutu.be%2F"%3Bvar YouTube4 %3D "youtu.be%2F"%3Bif (theId.indexOf(YouTube) >%3D 0) %7Bvar string %3D theId.split('%3D')%3BtheId %3D string%5B1%5D%3B%7Dif (theId.indexOf(YouTube2) >%3D 0) %7Bvar sString %3D theId.split('%2F')%3BtheId %3D sString%5B3%5D%3B%7Dif (theId.indexOf(YouTube3) >%3D 0) %7Bvar ssString %3D theId.split('%2F')%3BtheId %3D ssString%5B3%5D%3B%7Dif (theId.indexOf(YouTube4) >%3D 0) %7Bvar sssString %3D theId.split('%2F')%3BtheId %3D sssString%5B3%5D%3B%7Dvar newId %3D theId.match(%2F.%7B1%2C11%7D%2Fg)%3Bvar otherId %3D theOtherId.split('%26')%3BotherId.splice(0%2C 1)%3Bvar otherPartId %3D "%3F" %2B otherId%5B0%5D%3BotherId.splice(0%2C 1)%3Bfor(i %3D 0%3B i<otherId.length%3B i%2B%2B)%7BotherPartId %2B%3D '%26'%3BotherPartId %2B%3D otherId%5Bi%5D%3B%7Dvar customLink %3D 'https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2F' %2B newId%5B0%5D %2B otherPartId %2B '%26autoplay%3D1'%3Bwindow.location.href %3D '' %2B customLink%7D)()
-```
-2. Bookmark this page, then right click on the bookmark and hit "Edit"
-3. Name it whatever you want.
-4. Delete everything currently in the box labeled "URL"
-5. Paste in the code you copied earlier
-6. Press "Done" to save the script.
-## Part 2: Executing the script
-1. Navigate to any Youtube video
-2. Click on the bookmark you created earlier
-3. It should redirect you to an unblocked link
-4. Share the current link with students. It should be unblocked.
+<summary><b>Unblock Youtube</b></summary>
+ 
+1. Click on the lock
+<img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png">
+
+2. Click on "Cookies and site data"
+<img src="https://user-images.githubusercontent.com/115044820/231524166-9db656cc-1b8e-4572-b35f-04d75f477145.png" alt="Screenshot 2023-04-11 7.01.37 PM.png"/>
+
+3. Delete all the cookies. NO COOKIES!!!
+<img src="https://user-images.githubusercontent.com/115044820/231531249-8af4af81-068a-4cff-adac-bb9f918efd6c.png" alt="Screenshot 2023-04-12 11.27.26 AM.png"/>
+
 
 </details>
 
 i love rice
-![image](https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png)
+![image]()
 
