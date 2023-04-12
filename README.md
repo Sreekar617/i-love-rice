@@ -1,6 +1,3 @@
-# PUBLIC
-please do not download any files from my github account that don't have tutorials on them, most of them are viruses. see [here](https://github.com/Sreekar617/mvhs_moment) for more details
-
 ## Tools for teachers and responsible students. If you do not have a brain, turn back now. This repo is only for people with brains.
 ## I do not condone any misuse of the tools included here. Use responsibly and at your own risk.
 ## Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.
@@ -74,3 +71,5 @@ javascript:(function()%7Bvar theId %3D window.location.href%3Bvar theOtherId %3D
 </details>
 
 i love rice
+![image](https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png)
+
