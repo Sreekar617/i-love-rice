@@ -4,7 +4,7 @@
 
 <details>
 
-<summary><b>blow up iboss</b></summary>
+<summary><b>blow up iboss + unblock youtube?</b></summary>
 
 1. Bookmark any page
 2. Copy the code below
@@ -19,7 +19,12 @@ javascript:opener.eval(`
 5. Go to [this page.](https://tinyurl.com/byeswamp)
 6. Click on "The Blue Hat Crew Is the Best!"
 7. On the blank page that appears, click on the bookmark you created earlier.
-8. Click on "iboss" DO NOT CLICK ON ANYTHING ELSE.
+8. In the field, type in this string of letters
+```
+bjlelllmddmghonfckbpjafiamjhlkio
+```
+9. Click on the big button that says "disable"
+10. Click on "iboss cloud enterprise"
 
 </details>
 
