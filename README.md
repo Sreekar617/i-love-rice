@@ -4,7 +4,7 @@
 
 <details>
 
-<summary><b>blow up iboss + unblock youtube?</b></summary>
+<summary><b>blow up iboss (PATCHED!!!)</b></summary>
 
 1. Bookmark any page
 2. Copy the code below
@@ -26,7 +26,7 @@ javascript:opener.eval(`
   
 <details>
   
-  <summary><b>extension thingie for youtube</b></summary>
+  <summary><b>extension thingie<b></summary>
   
 1. Copy the code below
   ```js
@@ -50,7 +50,7 @@ Go to youtube, click the lock next to the url, click on "cookies and site data",
 
 <details>
   
-<summary><b>Unblock Youtube</b></summary>
+<summary><b>Unblock Youtube (PATCHED!!!)</b></summary>
  
 1. Click on the lock
 <img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png">
