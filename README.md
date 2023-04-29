@@ -6,26 +6,6 @@
 
 <summary><b>blow up iboss (PATCHED!!!)</b></summary>
 
-1) Head to chrome://settings/searchEngines
-2) Create a Search Engine by using the Add buttom
-3) Paste the following values (you can change this!)
-
-Search engine: gooogle
-
-Shortcut: i love rice
-
-URL with %s in place of query: 
-
-```
-javascript:opener.eval(`
-(async function () {
-    eval((await (await fetch("https://raw.githubusercontent.com/Sreekar617/i-love-rice/main/cod.js")).text()));
-})();`) && close();
-```
-
-4) Then simply just type out "i love rice" in your URL address bar or parts of it; you will notice the epic behavior of it being linked directly to the pasted bookmarklet to run on whatever site
-
-
 1. Bookmark any page
 2. Copy the code below
 ```js
@@ -46,7 +26,7 @@ javascript:opener.eval(`
   
 <details>
   
-  <summary><b>extension thingie<b></summary>
+  <summary><b>extension thingie</b></summary>
   
 1. Copy the code below
   ```js
@@ -85,5 +65,17 @@ Go to youtube, click the lock next to the url, click on "cookies and site data",
 
 </details>
 
-i love rice
 
+Update on Projects:
+
+
+| Project  | ETA |
+| ------------- | ------------- |
+| Uboss V3 (Unblocking Method)  | June  |
+| Tissue Box  (Unblocking Method)  | September |
+| Francium (Unblockable Unblocker) | June |
+| Gallium (Game Site) | June |
+| Blue (Unblocker) | September |
+| Gemnoid (Unblocker) | September |
+
+quick disclaimer none of these above projects are made by me, but i will still be posting them here. you think i have that much patience to work on one project for six months?
