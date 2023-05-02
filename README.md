@@ -99,4 +99,9 @@ Update on Projects:
 
 quick disclaimer none of these above projects are made by me, but i will still be posting them here. you think i have that much patience to work on one project for six months?
 
+<b>me when you star and share:</b>
+
+<img width="404" alt="literally me" src="https://user-images.githubusercontent.com/115044820/235795472-18621a38-e169-4260-a1be-1b74e58044e2.png">
+
+
 <sub>I do not condone any misuse of the tools included here. Use responsibly and at your own risk. Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.</sub>
