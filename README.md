@@ -1,15 +1,10 @@
-## Tools for teachers and responsible students. If you do not have a brain, turn back now. This repo is only for people with brains.
-## I do not condone any misuse of the tools included here. Use responsibly and at your own risk.
-## Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.
+## Tools for responsible students. If you do not have a brain, turn back now.
 <br>
 <details>
     
 <summary><b>blow up iboss</b></summary>
     
-1. Go to this page:
-
-chrome-extension://extensionidhereblahblah/manifest.json
-
+1. Go to [this page](chrome-extension://extensionidhereblahblah/manifest.json)
 
 2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark chrome://kill (B) and chrome://hang (C).
 
@@ -103,3 +98,5 @@ Update on Projects:
 | Gemnoid (Unblocker) | September |
 
 quick disclaimer none of these above projects are made by me, but i will still be posting them here. you think i have that much patience to work on one project for six months?
+
+<sub>I do not condone any misuse of the tools included here. Use responsibly and at your own risk. Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.</sub>
