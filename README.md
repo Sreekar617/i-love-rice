@@ -1,10 +1,34 @@
 ## Tools for teachers and responsible students. If you do not have a brain, turn back now. This repo is only for people with brains.
 ## I do not condone any misuse of the tools included here. Use responsibly and at your own risk.
 ## Everything on this page is for educational purposes to see how far we can push Chrome OS, the pathetic excuse for an operating system that runs on pathetic excuses for computers.
+<br>
+<details>
+    
+<summary><b>blow up iboss</b></summary>
+    
+1. Go to this page:
 
+chrome-extension://extensionidhereblahblah/manifest.json
+
+
+2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark chrome://kill (B) and chrome://hang (C).
+
+3. While on the extension page (A), click the chrome://kill bookmark (B). The page should crash. MAKE SURE TO READ STEP 4 BEFORE DOING STEP 3.
+
+4. INSTANTLY start spamming chrome://hang (bookmark C) and quickly reload the page while spamming (ideally with the refresh key on your keyboard or ctrl+R). You should have reloaded within one or two seconds of killing the page. 
+    
+If the extension page (bookmark A) no longer loads, then it worked. You can close your tabs and the extension will be blown up successfully. If nothing loads, then you probably reloaded too late or spammed too slow. This isn't rocket science! Restart your computer to revert back to normal.
+
+
+Note that the steps above are by no means the only way to perform the exploit. I'll add the first alternate set of instructions on May 11th for people affected by patches.
+    
+Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsviewschools.org) or open an issue [here](https://github.com/Sreekar617/i-love-rice/issues/new) (you need a github account!)
+    
+</details>
+<br>
 <details>
 
-<summary><b>blow up iboss (PATCHED!!!)</b></summary>
+<summary>blow up iboss method 2 (PATCHED!!!)</summary>
 
 1. Bookmark any page
 2. Copy the code below
@@ -26,7 +50,7 @@ javascript:opener.eval(`
   
 <details>
   
-  <summary><b>extension thingie</b></summary>
+  <summary>extension thingie (PATCHED!!!)</summary>
   
 1. Copy the code below
   ```js
@@ -50,7 +74,7 @@ Go to youtube, click the lock next to the url, click on "cookies and site data",
 
 <details>
   
-<summary><b>Unblock Youtube (PATCHED!!!)</b></summary>
+<summary>Unblock Youtube (PATCHED!!!)</summary>
  
 1. Click on the lock
 <img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png">
