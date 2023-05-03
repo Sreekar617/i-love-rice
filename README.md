@@ -4,9 +4,9 @@
     
 <summary><b>blow up iboss</b></summary>
     
-1. Go to [this page](chrome-extension://extensionidhereblahblah/manifest.json)
+1. Go to this page: `chrome-extension://kmffehbidlalibfeklaefnckpidbodff/manifest.json`
 
-2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark chrome://kill (B) and chrome://hang (C).
+2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark `chrome://kill` (B) and `chrome://hang` (C).
 
 3. While on the extension page (A), click the chrome://kill bookmark (B). The page should crash. MAKE SURE TO READ STEP 4 BEFORE DOING STEP 3.
 
