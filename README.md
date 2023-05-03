@@ -3,16 +3,22 @@
 <details>
     
 <summary><b>blow up iboss</b></summary>
-    
+
+0. READ THE WHOLE THING BEFORE ATTEMPTING!!! IF I GET ONE MORE STUPID EMAIL I SWEAR IM DELTEING THIS WHOLE PAGE!!!<sub>sysadmins you didnt hear that<sub>
+
 1. Go to this page: `chrome-extension://kmffehbidlalibfeklaefnckpidbodff/manifest.json`
 
 2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark `chrome://kill` (B) and `chrome://hang` (C).
 
 3. While on the extension page (A), click the chrome://kill bookmark (B). The page should crash. MAKE SURE TO READ STEP 4 BEFORE DOING STEP 3.
 
-4. INSTANTLY start spamming chrome://hang (bookmark C) and quickly reload the page while spamming (ideally with the refresh key on your keyboard or ctrl+R). You should have reloaded within one or two seconds of killing the page. 
+4. INSTANTLY start spamming chrome://hang (bookmark C) and quickly reload the page while spamming (ideally with the refresh key on your keyboard or ctrl+R). You should have reloaded within one or two seconds of killing the page. See timing here:
     
-If the extension page (bookmark A) no longer loads, then it worked. You can close your tabs and the extension will be blown up successfully. If nothing loads, then you probably reloaded too late or spammed too slow. This isn't rocket science! Restart your computer to revert back to normal.
+    <img width="522" alt="timing diagram" src="https://ltmeat.bypassi.com/img/line.png">
+    <br>
+    <img width="327" alt="timing diagram" src="https://ltmeat.bypassi.com/img/abc.gif">
+    
+If you go to [this page](https://www.google.com/search?q=chick+fil+a&rlz=1CASFJY_enUS1052&oq=proxy+fil+a&aqs=chrome.0.0i271j46i131i199i433i465i512j46i340i433i512l2j46i131i199i433i465i650j0i512j0i433i512j0i512jknives%20in%20ww10i271.1044j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on) and it loads, it worked!. You can close your tabs and the extension will be blown up successfully. If nothing loads, then you probably reloaded too late or spammed too slow. This isn't rocket science! Restart your computer and try again.
 
 
 Note that the steps above are by no means the only way to perform the exploit. I'll add the first alternate set of instructions on May 11th for people affected by patches.
