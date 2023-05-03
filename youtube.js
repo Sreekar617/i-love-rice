@@ -4,7 +4,7 @@ function start() {
 
   var link = "https://www.youtube.com/"; // link to app webpage
   var title = "Youtube"; // title shown in navbar
-  var id = "https://redstone-nw.netlify.app/clockwork-app/twitter.js"; // set this to the url location of your script
+  var id = "https://raw.githubusercontent.com/Sreekar617/i-love-rice/main/youtube.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
