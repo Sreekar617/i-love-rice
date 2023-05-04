@@ -26,6 +26,43 @@ Note that the steps above are by no means the only way to perform the exploit. I
 Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsviewschools.org) or open an issue [here](https://github.com/Sreekar617/i-love-rice/issues/new) (you need a github account!)
     
 </details>
+
+<details>
+
+<summary><b>unblock youtube (EASY)</b>/summary>
+0. READ THE WHOLE THING BEFORE ATTEMPTING!!! THIS IS DIFFERENT FROM THE ABOVE METHOD!!!
+
+1. Go to this page: `chrome-extension://bjlelllmddmghonfckbpjafiamjhlkio/manifest.json`
+
+2. Bookmark the extension page (bookmark A) if you wish. Then, bookmark `chrome://kill` (B) and `chrome://hang` (C).
+
+3. While on the extension page (A), click the chrome://kill bookmark (B). The page should crash. MAKE SURE TO READ STEP 4 BEFORE DOING STEP 3.
+
+4. INSTANTLY start spamming chrome://hang (bookmark C) and quickly reload the page while spamming (ideally with the refresh key on your keyboard or ctrl+R). You should have reloaded within one or two seconds of killing the page. See timing here:
+    
+    <img width="522" alt="timing diagram" src="https://ltmeat.bypassi.com/img/line.png">
+    <br>
+    <img width="327" alt="timing diagram" src="https://ltmeat.bypassi.com/img/abc.gif">
+    
+5. Click on the lock or building icon
+<img width="379" alt="current_settings" src="https://user-images.githubusercontent.com/115044820/231313548-5de4be10-b851-415e-b3f8-88d745479b0d.png">
+
+6. Click on "Cookies and site data"
+<img src="https://user-images.githubusercontent.com/115044820/231524166-9db656cc-1b8e-4572-b35f-04d75f477145.png" alt="Screenshot 2023-04-11 7.01.37 PM.png"/>
+
+7. Delete all the cookies. NO COOKIES!!!
+<img src="https://user-images.githubusercontent.com/115044820/231531249-8af4af81-068a-4cff-adac-bb9f918efd6c.png" alt="Screenshot 2023-04-12 11.27.26 AM.png"/>
+
+8. Go to youtube.com in a new tab.
+
+If it loads, it worked!. Just don't close your tabs and the extension will be blown up successfully. If it stops working, redo steps 5-8. If it still doesn't work, close all your tabs and try again.
+
+
+Note that the steps above are by no means the only way to perform the exploit. I'll add the first alternate set of instructions on May 11th for people affected by patches.
+    
+Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsviewschools.org) or open an issue [here](https://github.com/Sreekar617/i-love-rice/issues/new) (you need a github account!)
+
+</details>
 <br>
 <details>
 
