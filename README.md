@@ -29,7 +29,7 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 <details>
 
-<summary><b>unblock youtube (EASY)</b>/summary>
+<summary><b>unblock youtube (EASY)</b></summary>
 0. READ THE WHOLE THING BEFORE ATTEMPTING!!! THIS IS DIFFERENT FROM THE ABOVE METHOD!!!
 
 1. Go to this page: `chrome-extension://bjlelllmddmghonfckbpjafiamjhlkio/manifest.json`
@@ -63,6 +63,7 @@ Note that the steps above are by no means the only way to perform the exploit. I
 Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsviewschools.org) or open an issue [here](https://github.com/Sreekar617/i-love-rice/issues/new) (you need a github account!)
 
 </details>
+
 <br>
 <details>
 
