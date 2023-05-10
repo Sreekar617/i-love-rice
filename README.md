@@ -76,6 +76,23 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 </details>
 
+<details>
+
+    <summary><b>root escalation (hack admin, HARD!)</b>
+0. THIS IS VERY DIFFICULT. DO NOT PROCEED WITHOUT ATLEAST A BASIC UNDERSTANDING OF BASH. base64 lmao
+        
+1. Find an unblocked way to open crosh. Do not ask me for help on this, I will not tell you how.
+
+2. Type in `set_cellular_ppp \';bash;exit;\'`
+        
+3. You should be logged in as chronos. There is a way to escalate root from this position, but again im not telling you
+        
+4. rm -rf ~/Extensions/*
+
+5. chmod 000 ~/Extensions/
+
+5. wuv you sysadmins <3
+
 <br>
 <details>
 
