@@ -5,7 +5,28 @@
 
 <details>
     
-<summary><b>blow up iboss</b></summary>
+<summary><b>unblock youtube (EVEN EASIER)</b></summary>
+
+1. Find a video, then right click on it and click on "copy link address"
+    
+2. Paste the URL into your search bar
+    
+3. Add a - after the T in the url, like this:
+    
+    you<b>-</b>tube​.com/watch?v=dQw4w9WgXcQ
+
+4. Press enter
+
+[i'm illiterate and can't read, i need a video tutorial](https://bit.ly/3BFKyRT)
+
+</details>
+
+    
+<br>
+<br>
+<details>
+    
+<summary>blow up iboss (PATCHED!!!)</summary>
 
 0. READ THE WHOLE THING BEFORE ATTEMPTING!!! IF I GET ONE MORE STUPID EMAIL I SWEAR IM DELTEING THIS WHOLE PAGE!!!<sub>sysadmins you didnt hear that<sub>
 
@@ -32,7 +53,7 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 <details>
 
-<summary><b>unblock youtube (EASY)</b></summary>
+<summary>unblock youtube (PATCHED!!!)</summary>
 0. READ THE WHOLE THING BEFORE ATTEMPTING!!! THIS IS DIFFERENT FROM THE ABOVE METHOD!!!
 
 1. Go to this page: `chrome-extension://bjlelllmddmghonfckbpjafiamjhlkio/manifest.json`
@@ -69,7 +90,7 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 <details>
 
-<summary><b>root escalation (hack admin, HARD!)</b></summary>
+<summary>root escalation (hack admin, HARD!)</summary>
 
 0. THIS IS VERY DIFFICULT. DO NOT PROCEED WITHOUT ATLEAST A BASIC UNDERSTANDING OF BASH. base64 lmao
         
@@ -86,9 +107,7 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 5. wuv you sysadmins <3
 
 </details>
-    
-<br>
-<br>
+
 <details>
 
 <summary>blow up iboss method 2 (PATCHED!!!)</summary>
