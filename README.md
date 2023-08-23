@@ -21,12 +21,30 @@
 
 </details>
 
+<details>
+    
+<summary><b>blow up iboss</b></summary>
+
+1. Go to [this website](sreekar617.github.io/)
+    
+2. update this tutorial later
+    
+3. forget to update the tutorial
+    
+    you<b>-</b>tube​.com/watch?v=dQw4w9WgXcQ
+
+4. forget to include the proper website and instead leave a rickroll
+
+[i'm illiterate and can't read, i need a video tutorial](https://bit.ly/3BFKyRT)
+
+</details>
+
     
 <br>
 <br>
 <details>
     
-<summary>blow up iboss (PATCHED!!!)</summary>
+<summary>blow up iboss method 69 (PATCHED!!!)</summary>
 
 0. READ THE WHOLE THING BEFORE ATTEMPTING!!! IF I GET ONE MORE STUPID EMAIL I SWEAR IM DELTEING THIS WHOLE PAGE!!!<sub>sysadmins you didnt hear that<sub>
 
@@ -90,7 +108,7 @@ Need help? Go <b>~~kill yourse~~</b> email me [here](mailto:2027ramid16@moundsvi
 
 <details>
 
-<summary>root escalation (hack admin, HARD!)</summary>
+<summary>the grass exploit</summary>
 
 0. THIS IS VERY DIFFICULT. DO NOT PROCEED WITHOUT ATLEAST A BASIC UNDERSTANDING OF BASH. base64 lmao
         
@@ -184,7 +202,7 @@ Update on Projects:
 | Blue (Unblocker) | September |
 | Gemnoid (Unblocker) | September |
 
-quick disclaimer none of these above projects are made by me, but i will still be posting them here. you think i have that much patience to work on one project for six months?
+quick disclaimer none of these above projects are made by me. this is just a reminder for myself to check up on these projects every once in a while
 
 <b>me when you star and share:</b>
 
